@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="374" viewBox="0 0 620 374" role="img" aria-labelledby="title desc">
+<title id="title">Rakshann terminal information card</title>
+<desc id="desc">A terminal themed profile card with animated lines of personal and technical details.</desc>
+<style><![CDATA[
+.mono{font-family:'SFMono-Regular','Consolas','Liberation Mono',monospace}
+.prompt{fill:#69f0a0;font-size:16px;font-weight:700}
+.label{fill:#39d353;font-size:14px;font-weight:700}
+.value{fill:#d7ffe0;font-size:14px}
+.muted{fill:#7ee787;font-size:12px}
+]]></style>
+<rect width="620" height="374" rx="16" fill="#0d1117"/>
+<rect x="1" y="1" width="618" height="372" rx="16" fill="none" stroke="#30363d"/>
+<rect x="0" y="0" width="620" height="42" rx="16" fill="#161b22"/>
+<rect x="0" y="26" width="620" height="18" fill="#161b22"/>
+<circle cx="24" cy="21" r="6" fill="#ff5f56"/>
+<circle cx="46" cy="21" r="6" fill="#ffbd2e"/>
+<circle cx="68" cy="21" r="6" fill="#27c93f"/>
+<text class="mono muted" x="95" y="26">rakshann@github:~$ whoami</text>
+<text class="mono prompt" x="28" y="74">./neofetch --local-only</text>
+<g opacity="0" transform="translate(0 8)">
+<animate attributeName="opacity" from="0" to="1" begin="0.22s" dur="0.36s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="0.22s" dur="0.36s" fill="freeze"/>
+<text class="mono label" x="36" y="112">Name          </text>
+<text class="mono value" x="178" y="112">: Rakshann</text>
+</g>
+<g opacity="0" transform="translate(0 8)">
+<animate attributeName="opacity" from="0" to="1" begin="0.40s" dur="0.36s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="0.40s" dur="0.36s" fill="freeze"/>
+<text class="mono label" x="36" y="137">Role          </text>
+<text class="mono value" x="178" y="137">: Computer Science Undergraduate</text>
+</g>
+<g opacity="0" transform="translate(0 8)">
+<animate attributeName="opacity" from="0" to="1" begin="0.58s" dur="0.36s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="0.58s" dur="0.36s" fill="freeze"/>
+<text class="mono label" x="36" y="162">College       </text>
+<text class="mono value" x="178" y="162">: Amrita Vishwa Vidyapeetham</text>
+</g>
+<g opacity="0" transform="translate(0 8)">
+<animate attributeName="opacity" from="0" to="1" begin="0.76s" dur="0.36s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="0.76s" dur="0.36s" fill="freeze"/>
+<text class="mono label" x="36" y="187">Current Focus </text>
+<text class="mono value" x="178" y="187">: Backend Development</text>
+</g>
+<g opacity="0" transform="translate(0 8)">
+<animate attributeName="opacity" from="0" to="1" begin="0.94s" dur="0.36s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="0.94s" dur="0.36s" fill="freeze"/>
+<text class="mono label" x="36" y="212">Languages     </text>
+<text class="mono value" x="178" y="212">: Java / Python / JavaScript / SQL</text>
+</g>
+<g opacity="0" transform="translate(0 8)">
+<animate attributeName="opacity" from="0" to="1" begin="1.12s" dur="0.36s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="1.12s" dur="0.36s" fill="freeze"/>
+<text class="mono label" x="36" y="237">Backend       </text>
+<text class="mono value" x="178" y="237">: Spring Boot / Node / Flask</text>
+</g>
+<g opacity="0" transform="translate(0 8)">
+<animate attributeName="opacity" from="0" to="1" begin="1.30s" dur="0.36s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="1.30s" dur="0.36s" fill="freeze"/>
+<text class="mono label" x="36" y="262">Frontend      </text>
+<text class="mono value" x="178" y="262">: React / Flutter</text>
+</g>
+<g opacity="0" transform="translate(0 8)">
+<animate attributeName="opacity" from="0" to="1" begin="1.48s" dur="0.36s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="1.48s" dur="0.36s" fill="freeze"/>
+<text class="mono label" x="36" y="287">Cloud         </text>
+<text class="mono value" x="178" y="287">: AWS / Google Cloud</text>
+</g>
+<g opacity="0" transform="translate(0 8)">
+<animate attributeName="opacity" from="0" to="1" begin="1.66s" dur="0.36s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="1.66s" dur="0.36s" fill="freeze"/>
+<text class="mono label" x="36" y="312">Database      </text>
+<text class="mono value" x="178" y="312">: PostgreSQL / MySQL</text>
+</g>
+<g opacity="0" transform="translate(0 8)">
+<animate attributeName="opacity" from="0" to="1" begin="1.84s" dur="0.36s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="1.84s" dur="0.36s" fill="freeze"/>
+<text class="mono label" x="36" y="337">Highlights    </text>
+<text class="mono value" x="178" y="337">: NexusForge / DEWD Dashboard / OLabs Collab / Analyn</text>
+</g>
+<rect x="34" y="336" width="552" height="1" fill="#238636" opacity="0.7"/>
+<text class="mono muted" x="36" y="358">zero third-party stats services / generated locally with Python</text>
+</svg>

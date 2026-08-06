@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="663" height="635" viewBox="0 0 663 635" role="img" aria-labelledby="title desc">
+<title id="title">Animated ASCII portrait of Rakshann</title>
+<desc id="desc">A terminal styled ASCII portrait that types once from top to bottom.</desc>
+<style><![CDATA[
+svg{background:#050807;border-radius:14px}
+.ascii{font-family:'SFMono-Regular','Consolas','Liberation Mono',monospace;font-size:10px;fill:#7CFF9B;white-space:pre}
+.cursor{fill:#7CFF9B}
+]]></style>
+<rect x="0" y="0" width="663" height="635" rx="14" fill="#050807"/>
+<rect x="10" y="10" width="643" height="615" rx="10" fill="none" stroke="#153b24"/>
+<defs>
+<clipPath id="row-0"><rect x="20" y="15" width="0" height="13">
+<animate attributeName="width" from="0" to="0" begin="0.000s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-1"><rect x="20" y="26" width="0" height="13">
+<animate attributeName="width" from="0" to="0" begin="0.109s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-2"><rect x="20" y="37" width="0" height="13">
+<animate attributeName="width" from="0" to="0" begin="0.219s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-3"><rect x="20" y="48" width="0" height="13">
+<animate attributeName="width" from="0" to="0" begin="0.328s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-4"><rect x="20" y="59" width="0" height="13">
+<animate attributeName="width" from="0" to="0" begin="0.438s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-5"><rect x="20" y="70" width="0" height="13">
+<animate attributeName="width" from="0" to="0" begin="0.547s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-6"><rect x="20" y="81" width="0" height="13">
+<animate attributeName="width" from="0" to="427" begin="0.657s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-7"><rect x="20" y="92" width="0" height="13">
+<animate attributeName="width" from="0" to="462" begin="0.766s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-8"><rect x="20" y="103" width="0" height="13">
+<animate attributeName="width" from="0" to="483" begin="0.875s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-9"><rect x="20" y="114" width="0" height="13">
+<animate attributeName="width" from="0" to="497" begin="0.985s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-10"><rect x="20" y="125" width="0" height="13">
+<animate attributeName="width" from="0" to="518" begin="1.094s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-11"><rect x="20" y="136" width="0" height="13">
+<animate attributeName="width" from="0" to="539" begin="1.204s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-12"><rect x="20" y="147" width="0" height="13">
+<animate attributeName="width" from="0" to="546" begin="1.313s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-13"><rect x="20" y="158" width="0" height="13">
+<animate attributeName="width" from="0" to="560" begin="1.423s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-14"><rect x="20" y="169" width="0" height="13">
+<animate attributeName="width" from="0" to="567" begin="1.532s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-15"><rect x="20" y="180" width="0" height="13">
+<animate attributeName="width" from="0" to="581" begin="1.642s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-16"><rect x="20" y="191" width="0" height="13">
+<animate attributeName="width" from="0" to="588" begin="1.751s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-17"><rect x="20" y="202" width="0" height="13">
+<animate attributeName="width" from="0" to="595" begin="1.860s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-18"><rect x="20" y="213" width="0" height="13">
+<animate attributeName="width" from="0" to="602" begin="1.970s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-19"><rect x="20" y="224" width="0" height="13">
+<animate attributeName="width" from="0" to="609" begin="2.079s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-20"><rect x="20" y="235" width="0" height="13">
+<animate attributeName="width" from="0" to="609" begin="2.189s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-21"><rect x="20" y="246" width="0" height="13">
+<animate attributeName="width" from="0" to="609" begin="2.298s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-22"><rect x="20" y="257" width="0" height="13">
+<animate attributeName="width" from="0" to="616" begin="2.408s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-23"><rect x="20" y="268" width="0" height="13">
+<animate attributeName="width" from="0" to="616" begin="2.517s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-24"><rect x="20" y="279" width="0" height="13">
+<animate attributeName="width" from="0" to="623" begin="2.626s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-25"><rect x="20" y="290" width="0" height="13">
+<animate attributeName="width" from="0" to="623" begin="2.736s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-26"><rect x="20" y="301" width="0" height="13">
+<animate attributeName="width" from="0" to="623" begin="2.845s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-27"><rect x="20" y="312" width="0" height="13">
+<animate attributeName="width" from="0" to="623" begin="2.955s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-28"><rect x="20" y="323" width="0" height="13">
+<animate attributeName="width" from="0" to="623" begin="3.064s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-29"><rect x="20" y="334" width="0" height="13">
+<animate attributeName="width" from="0" to="616" begin="3.174s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-30"><rect x="20" y="345" width="0" height="13">
+<animate attributeName="width" from="0" to="616" begin="3.283s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-31"><rect x="20" y="356" width="0" height="13">
+<animate attributeName="width" from="0" to="609" begin="3.392s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-32"><rect x="20" y="367" width="0" height="13">
+<animate attributeName="width" from="0" to="609" begin="3.502s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-33"><rect x="20" y="378" width="0" height="13">
+<animate attributeName="width" from="0" to="609" begin="3.611s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-34"><rect x="20" y="389" width="0" height="13">
+<animate attributeName="width" from="0" to="602" begin="3.721s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-35"><rect x="20" y="400" width="0" height="13">
+<animate attributeName="width" from="0" to="595" begin="3.830s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-36"><rect x="20" y="411" width="0" height="13">
+<animate attributeName="width" from="0" to="588" begin="3.940s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-37"><rect x="20" y="422" width="0" height="13">
+<animate attributeName="width" from="0" to="581" begin="4.049s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-38"><rect x="20" y="433" width="0" height="13">
+<animate attributeName="width" from="0" to="567" begin="4.158s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-39"><rect x="20" y="444" width="0" height="13">
+<animate attributeName="width" from="0" to="560" begin="4.268s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-40"><rect x="20" y="455" width="0" height="13">
+<animate attributeName="width" from="0" to="560" begin="4.377s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-41"><rect x="20" y="466" width="0" height="13">
+<animate attributeName="width" from="0" to="567" begin="4.487s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-42"><rect x="20" y="477" width="0" height="13">
+<animate attributeName="width" from="0" to="560" begin="4.596s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-43"><rect x="20" y="488" width="0" height="13">
+<animate attributeName="width" from="0" to="567" begin="4.706s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-44"><rect x="20" y="499" width="0" height="13">
+<animate attributeName="width" from="0" to="574" begin="4.815s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-45"><rect x="20" y="510" width="0" height="13">
+<animate attributeName="width" from="0" to="581" begin="4.925s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-46"><rect x="20" y="521" width="0" height="13">
+<animate attributeName="width" from="0" to="588" begin="5.034s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-47"><rect x="20" y="532" width="0" height="13">
+<animate attributeName="width" from="0" to="588" begin="5.143s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-48"><rect x="20" y="543" width="0" height="13">
+<animate attributeName="width" from="0" to="595" begin="5.253s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-49"><rect x="20" y="554" width="0" height="13">
+<animate attributeName="width" from="0" to="595" begin="5.362s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-50"><rect x="20" y="565" width="0" height="13">
+<animate attributeName="width" from="0" to="588" begin="5.472s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-51"><rect x="20" y="576" width="0" height="13">
+<animate attributeName="width" from="0" to="588" begin="5.581s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+<clipPath id="row-52"><rect x="20" y="587" width="0" height="13">
+<animate attributeName="width" from="0" to="588" begin="5.691s" dur="0.096s" fill="freeze" calcMode="linear"/>
+</rect></clipPath>
+</defs>
+<text class="ascii" x="20" y="26" clip-path="url(#row-0)"></text>
+<text class="ascii" x="20" y="37" clip-path="url(#row-1)"></text>
+<text class="ascii" x="20" y="48" clip-path="url(#row-2)"></text>
+<text class="ascii" x="20" y="59" clip-path="url(#row-3)"></text>
+<text class="ascii" x="20" y="70" clip-path="url(#row-4)"></text>
+<text class="ascii" x="20" y="81" clip-path="url(#row-5)"></text>
+<text class="ascii" x="20" y="92" clip-path="url(#row-6)">                                       ......................</text>
+<text class="ascii" x="20" y="103" clip-path="url(#row-7)">                                  .....                      .....</text>
+<text class="ascii" x="20" y="114" clip-path="url(#row-8)">                               ...    .`:-=+*ccsssssscc*+=-:`.    ...</text>
+<text class="ascii" x="20" y="125" clip-path="url(#row-9)">                             ...  .:=cs#%@@@@%%%%%%%%%%@@@@%%sc+:.   ..</text>
+<text class="ascii" x="20" y="136" clip-path="url(#row-10)">                          .... .-*#%@@%%%%%%%%%%%%%%%%%%%%%%%%@@%#c-.  ...</text>
+<text class="ascii" x="20" y="147" clip-path="url(#row-11)">                        .... .=#%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@#+. .....</text>
+<text class="ascii" x="20" y="158" clip-path="url(#row-12)">                      ..... :#@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@#- .....</text>
+<text class="ascii" x="20" y="169" clip-path="url(#row-13)">                    ...... =%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@+ ......</text>
+<text class="ascii" x="20" y="180" clip-path="url(#row-14)">                   ...... :%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@- ......</text>
+<text class="ascii" x="20" y="191" clip-path="url(#row-15)">                  ....... =@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%* ........</text>
+<text class="ascii" x="20" y="202" clip-path="url(#row-16)">                 ........ *%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@* .........</text>
+<text class="ascii" x="20" y="213" clip-path="url(#row-17)">               ......... -%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%` ..........</text>
+<text class="ascii" x="20" y="224" clip-path="url(#row-18)">              ...........s%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%- ............</text>
+<text class="ascii" x="20" y="235" clip-path="url(#row-19)">              ......... -%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%c` ..............</text>
+<text class="ascii" x="20" y="246" clip-path="url(#row-20)">             .......... +%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%s+. ...............</text>
+<text class="ascii" x="20" y="257" clip-path="url(#row-21)">             .......... +@s***s%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#s*=-=---`.............</text>
+<text class="ascii" x="20" y="268" clip-path="url(#row-22)">            ........... *s=====c%%%%%%%%%%%%%%%%%%%%%%%%%%%###c+=---==++++-.............</text>
+<text class="ascii" x="20" y="279" clip-path="url(#row-23)">            ........... -+====+=s%%%%%%%%%%%#**c#ccss****++=-=+*==========+:............</text>
+<text class="ascii" x="20" y="290" clip-path="url(#row-24)">            ............-+======+%%%%%%%%%%%%s+:*c*c-=s#%%%%#*-*c-========+=.............</text>
+<text class="ascii" x="20" y="301" clip-path="url(#row-25)">           .............=+======+%%%%%%%%%%%*+=+c++c+=+*****+==*+-==========.............</text>
+<text class="ascii" x="20" y="312" clip-path="url(#row-26)">           .............=+======+%%%%%%%%%%s=+++=**=+++======++=-===========.............</text>
+<text class="ascii" x="20" y="323" clip-path="url(#row-27)">           .............-+======*%%%%%%%%%c====-=**+-=========-===========+-.............</text>
+<text class="ascii" x="20" y="334" clip-path="url(#row-28)">            .............=+=====#%%%%%%%%c-======**+=================+===++`.............</text>
+<text class="ascii" x="20" y="345" clip-path="url(#row-29)">            .............`=+++=s@%%%%%#c+-=======**+-=================+++=`.............</text>
+<text class="ascii" x="20" y="356" clip-path="url(#row-30)">            ...............`:`.-*ccc*+=--===========================-.`:`...............</text>
+<text class="ascii" x="20" y="367" clip-path="url(#row-31)">             ...................------=====--===----====-==========-...................</text>
+<text class="ascii" x="20" y="378" clip-path="url(#row-32)">             ....................-=========+============+=========-....................</text>
+<text class="ascii" x="20" y="389" clip-path="url(#row-33)">              ....................:======-+csss######sssc+-======-.....................</text>
+<text class="ascii" x="20" y="400" clip-path="url(#row-34)">              .....................`-=====--==++++++++===-=====-:.....................</text>
+<text class="ascii" x="20" y="411" clip-path="url(#row-35)">               ......................:-=======---------=======:......................</text>
+<text class="ascii" x="20" y="422" clip-path="url(#row-36)">                ...................   .`-===================:.   ...................</text>
+<text class="ascii" x="20" y="433" clip-path="url(#row-37)">                 .............   .`-=*cs#s================c#sc*+-`.   .............</text>
+<text class="ascii" x="20" y="444" clip-path="url(#row-38)">                   ........  .:=*s#%%%%%%#=+============+=s%%%%%%%sc=:.  ........</text>
+<text class="ascii" x="20" y="455" clip-path="url(#row-39)">                    ....  .-*s%%%%%#####%s=+==++++++++==+=s%#####%%%%%#*-.  ....</text>
+<text class="ascii" x="20" y="466" clip-path="url(#row-40)">                    ..  `+#%%%%###%%%%%%%s=+============+=s%#%%%%%%###%%%#*:  ..</text>
+<text class="ascii" x="20" y="477" clip-path="url(#row-41)">                   .  :*%%%###%%%%%%%%%%%s=++++++++++++++=s%#%%%%%%%%%%##%%%c:  .</text>
+<text class="ascii" x="20" y="488" clip-path="url(#row-42)">                    .*%%%#%%%%%%%%%%%%%%%s================s%#%%%%%%%%%%%%%#%%%c`</text>
+<text class="ascii" x="20" y="499" clip-path="url(#row-43)">                   :#%##%%%%%%%%%%%%%%%%%#cccccccccccccccc#%%%%%%%%%%%%%%%%%##%%-</text>
+<text class="ascii" x="20" y="510" clip-path="url(#row-44)">                  =%%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%+</text>
+<text class="ascii" x="20" y="521" clip-path="url(#row-45)">                 -%##%%%%%%%%%%%%%%%%%%%%%################%%%%%%%%%%%%%%%%%%%%%%#@+</text>
+<text class="ascii" x="20" y="532" clip-path="url(#row-46)">                `%%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%:</text>
+<text class="ascii" x="20" y="543" clip-path="url(#row-47)">                *%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%c</text>
+<text class="ascii" x="20" y="554" clip-path="url(#row-48)">                s%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#.</text>
+<text class="ascii" x="20" y="565" clip-path="url(#row-49)">                s%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#.</text>
+<text class="ascii" x="20" y="576" clip-path="url(#row-50)">                s%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#</text>
+<text class="ascii" x="20" y="587" clip-path="url(#row-51)">                =%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%*</text>
+<text class="ascii" x="20" y="598" clip-path="url(#row-52)">                 s%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#.</text>
+<rect class="cursor" width="6" height="11" x="20" y="17" opacity="0">
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.92;0.94;1" begin="0s" dur="6.60s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" values="20,17;20,17;20,28;20,28;20,39;20,39;20,50;20,50;20,61;20,61;20,72;20,72;20,83;447,83;20,94;482,94;20,105;503,105;20,116;517,116;20,127;538,127;20,138;559,138;20,149;566,149;20,160;580,160;20,171;587,171;20,182;601,182;20,193;608,193;20,204;615,204;20,215;622,215;20,226;629,226;20,237;629,237;20,248;629,248;20,259;636,259;20,270;636,270;20,281;643,281;20,292;643,292;20,303;643,303;20,314;643,314;20,325;643,325;20,336;636,336;20,347;636,347;20,358;629,358;20,369;629,369;20,380;629,380;20,391;622,391;20,402;615,402;20,413;608,413;20,424;601,424;20,435;587,435;20,446;580,446;20,457;580,457;20,468;587,468;20,479;580,479;20,490;587,490;20,501;594,501;20,512;601,512;20,523;608,523;20,534;608,534;20,545;615,545;20,556;615,556;20,567;608,567;20,578;608,578;20,589;608,589;643,589" keyTimes="0.0000;0.0166;0.0189;0.0355;0.0377;0.0543;0.0566;0.0732;0.0755;0.0921;0.0943;0.1109;0.1132;0.1298;0.1321;0.1487;0.1509;0.1675;0.1698;0.1864;0.1887;0.2053;0.2075;0.2242;0.2264;0.2430;0.2453;0.2619;0.2642;0.2808;0.2830;0.2996;0.3019;0.3185;0.3208;0.3374;0.3396;0.3562;0.3585;0.3751;0.3774;0.3940;0.3962;0.4128;0.4151;0.4317;0.4340;0.4506;0.4528;0.4694;0.4717;0.4883;0.4906;0.5072;0.5094;0.5260;0.5283;0.5449;0.5472;0.5638;0.5660;0.5826;0.5849;0.6015;0.6038;0.6204;0.6226;0.6392;0.6415;0.6581;0.6604;0.6770;0.6792;0.6958;0.6981;0.7147;0.7170;0.7336;0.7358;0.7525;0.7547;0.7713;0.7736;0.7902;0.7925;0.8091;0.8113;0.8279;0.8302;0.8468;0.8491;0.8657;0.8679;0.8845;0.8868;0.9034;0.9057;0.9223;0.9245;0.9411;0.9434;0.9600;0.9623;0.9789;0.9811;0.9977;1" begin="0s" dur="5.80s" fill="freeze"/>
+<animate attributeName="fill-opacity" values="1;0;1;0;1;0;1" begin="0s" dur="1.1s" repeatCount="5" fill="freeze"/>
+</rect>
+</svg>
